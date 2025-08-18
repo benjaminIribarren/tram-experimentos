@@ -12,7 +12,7 @@ def capacidad_tranvia(n, paradas):
             capacidad_max = pasajeros_actuales
     return capacidad_max
 
-n_values = [100, 250, 500, 750, 1000]
+n_values = [100, 250, 500, 750, 1000] #valores de prueba
 tiempos = []
 
 for n in n_values:
